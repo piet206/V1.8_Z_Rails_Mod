@@ -24,7 +24,7 @@
 
 The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you must modify the deck panel slighly. This was necessary to provide clearance for the rails. See the dxf folder for the modified dimensions.
 
-The y extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut. This is for the blind joint that fastens the new extrusions the mgn12's are mounted to. These 2 extrusions are in line with center of the bed. It is very important that the end cuts are square and exactly the same length. This can potential bend your gantry extrusions if they are not square. I did not have any issues with Misumi's end cuts. Others have used right angle brackets with success and this might be a better way.
+The y extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut (145.8 mm for 250 build). This is for the blind joint that fastens the new extrusions the mgn12's are mounted to. These 2 extrusions are in line with center of the bed. It is very important that the end cuts are square and exactly the same length. This can potential bend your gantry extrusions if they are not square. I did not have any issues with Misumi's end cuts. Others have used right angle brackets with success and this might be a better way.
 
 I've added leadscrew-mgn12 block stl's for both the 300 and 250 build sizes so choose accordingly.
 I had trouble with warping when printing the leadscrew-mgn12 blocks on my ender 3 with a glass bed. Elmers purple gluestick on the buildplate saved the day.
